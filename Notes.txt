@@ -1,0 +1,14 @@
+VCS(Version Control System)
+-Centralized(SVN-Sub Version)
+-Distributed(Git,Mercurial)
+Repository- Container of the file
+git init
+if it is red not yet in the repository files
+git commit -m intial commit
+git remote add origin (Link)
+git push origin master
+git status-pending file 
+git commit -m "added a word"
+
+master(branch)
+branches is a new folder that you save a file you get in git
